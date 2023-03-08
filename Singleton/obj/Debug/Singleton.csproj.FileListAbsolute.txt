@@ -1,0 +1,7 @@
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\DesignPatterns\DesignPatterns\Singleton\bin\Debug\Singleton.exe.config
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\DesignPatterns\DesignPatterns\Singleton\bin\Debug\Singleton.exe
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\DesignPatterns\DesignPatterns\Singleton\bin\Debug\Singleton.pdb
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\DesignPatterns\DesignPatterns\Singleton\obj\Debug\Singleton.csproj.AssemblyReference.cache
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\DesignPatterns\DesignPatterns\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\DesignPatterns\DesignPatterns\Singleton\obj\Debug\Singleton.exe
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\DesignPatterns\DesignPatterns\Singleton\obj\Debug\Singleton.pdb

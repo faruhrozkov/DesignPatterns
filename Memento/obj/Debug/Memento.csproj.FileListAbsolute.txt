@@ -1,0 +1,12 @@
+C:\Users\Engin\documents\visual studio 2017\Projects\DesignPatterns\Memento\bin\Debug\Memento.exe.config
+C:\Users\Engin\documents\visual studio 2017\Projects\DesignPatterns\Memento\bin\Debug\Memento.exe
+C:\Users\Engin\documents\visual studio 2017\Projects\DesignPatterns\Memento\bin\Debug\Memento.pdb
+C:\Users\Engin\documents\visual studio 2017\Projects\DesignPatterns\Memento\obj\Debug\Memento.csprojResolveAssemblyReference.cache
+C:\Users\Engin\documents\visual studio 2017\Projects\DesignPatterns\Memento\obj\Debug\Memento.exe
+C:\Users\Engin\documents\visual studio 2017\Projects\DesignPatterns\Memento\obj\Debug\Memento.pdb
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\DesignPatterns\DesignPatterns\Memento\bin\Debug\Memento.exe.config
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\DesignPatterns\DesignPatterns\Memento\bin\Debug\Memento.exe
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\DesignPatterns\DesignPatterns\Memento\bin\Debug\Memento.pdb
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\DesignPatterns\DesignPatterns\Memento\obj\Debug\Memento.csproj.CoreCompileInputs.cache
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\DesignPatterns\DesignPatterns\Memento\obj\Debug\Memento.exe
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\DesignPatterns\DesignPatterns\Memento\obj\Debug\Memento.pdb

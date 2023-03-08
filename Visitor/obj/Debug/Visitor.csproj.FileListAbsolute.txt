@@ -1,0 +1,20 @@
+C:\Users\Engin\documents\visual studio 2017\Projects\DesignPatterns\Visitor\bin\Debug\Visitor.exe.config
+C:\Users\Engin\documents\visual studio 2017\Projects\DesignPatterns\Visitor\bin\Debug\Visitor.exe
+C:\Users\Engin\documents\visual studio 2017\Projects\DesignPatterns\Visitor\bin\Debug\Visitor.pdb
+C:\Users\Engin\documents\visual studio 2017\Projects\DesignPatterns\Visitor\obj\Debug\Visitor.csprojResolveAssemblyReference.cache
+C:\Users\Engin\documents\visual studio 2017\Projects\DesignPatterns\Visitor\obj\Debug\Visitor.exe
+C:\Users\Engin\documents\visual studio 2017\Projects\DesignPatterns\Visitor\obj\Debug\Visitor.pdb
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\DesignPatterns\DesignPatterns\Visitor\bin\Debug\Visitor.exe.config
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\DesignPatterns\DesignPatterns\Visitor\bin\Debug\Visitor.exe
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\DesignPatterns\DesignPatterns\Visitor\bin\Debug\Visitor.pdb
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\DesignPatterns\DesignPatterns\Visitor\obj\Debug\Visitor.csproj.CoreCompileInputs.cache
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\DesignPatterns\DesignPatterns\Visitor\obj\Debug\Visitor.exe
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\DesignPatterns\DesignPatterns\Visitor\obj\Debug\Visitor.pdb
+C:\C#\DesignPatterns\Visitor\bin\Debug\Visitor.exe.config
+C:\C#\DesignPatterns\Visitor\bin\Debug\Visitor.exe
+C:\C#\DesignPatterns\Visitor\bin\Debug\Visitor.pdb
+C:\C#\DesignPatterns\Visitor\obj\Debug\Visitor.csproj.AssemblyReference.cache
+C:\C#\DesignPatterns\Visitor\obj\Debug\Visitor.csproj.SuggestedBindingRedirects.cache
+C:\C#\DesignPatterns\Visitor\obj\Debug\Visitor.csproj.CoreCompileInputs.cache
+C:\C#\DesignPatterns\Visitor\obj\Debug\Visitor.exe
+C:\C#\DesignPatterns\Visitor\obj\Debug\Visitor.pdb

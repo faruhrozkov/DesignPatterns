@@ -1,0 +1,12 @@
+c:\users\engin\documents\visual studio 2017\Projects\DesignPatterns\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+c:\users\engin\documents\visual studio 2017\Projects\DesignPatterns\FactoryMethod\bin\Debug\FactoryMethod.exe
+c:\users\engin\documents\visual studio 2017\Projects\DesignPatterns\FactoryMethod\bin\Debug\FactoryMethod.pdb
+c:\users\engin\documents\visual studio 2017\Projects\DesignPatterns\FactoryMethod\obj\Debug\FactoryMethod.csprojResolveAssemblyReference.cache
+c:\users\engin\documents\visual studio 2017\Projects\DesignPatterns\FactoryMethod\obj\Debug\FactoryMethod.exe
+c:\users\engin\documents\visual studio 2017\Projects\DesignPatterns\FactoryMethod\obj\Debug\FactoryMethod.pdb
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\DesignPatterns\DesignPatterns\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\DesignPatterns\DesignPatterns\FactoryMethod\bin\Debug\FactoryMethod.exe
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\DesignPatterns\DesignPatterns\FactoryMethod\bin\Debug\FactoryMethod.pdb
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\DesignPatterns\DesignPatterns\FactoryMethod\obj\Debug\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\DesignPatterns\DesignPatterns\FactoryMethod\obj\Debug\FactoryMethod.exe
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\DesignPatterns\DesignPatterns\FactoryMethod\obj\Debug\FactoryMethod.pdb

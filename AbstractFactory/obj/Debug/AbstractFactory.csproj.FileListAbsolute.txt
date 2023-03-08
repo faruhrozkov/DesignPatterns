@@ -1,0 +1,13 @@
+c:\users\engin\documents\visual studio 2017\Projects\DesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+c:\users\engin\documents\visual studio 2017\Projects\DesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.exe
+c:\users\engin\documents\visual studio 2017\Projects\DesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.pdb
+c:\users\engin\documents\visual studio 2017\Projects\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.csprojResolveAssemblyReference.cache
+c:\users\engin\documents\visual studio 2017\Projects\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.exe
+c:\users\engin\documents\visual studio 2017\Projects\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.pdb
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\DesignPatterns\DesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\DesignPatterns\DesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.exe
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\DesignPatterns\DesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\DesignPatterns\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.csproj.AssemblyReference.cache
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\DesignPatterns\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\DesignPatterns\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.exe
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\DesignPatterns\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.pdb

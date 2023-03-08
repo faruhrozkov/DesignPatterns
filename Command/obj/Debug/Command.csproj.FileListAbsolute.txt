@@ -1,0 +1,12 @@
+C:\Users\Engin\documents\visual studio 2017\Projects\DesignPatterns\Command\bin\Debug\Command.exe.config
+C:\Users\Engin\documents\visual studio 2017\Projects\DesignPatterns\Command\bin\Debug\Command.exe
+C:\Users\Engin\documents\visual studio 2017\Projects\DesignPatterns\Command\bin\Debug\Command.pdb
+C:\Users\Engin\documents\visual studio 2017\Projects\DesignPatterns\Command\obj\Debug\Command.csprojResolveAssemblyReference.cache
+C:\Users\Engin\documents\visual studio 2017\Projects\DesignPatterns\Command\obj\Debug\Command.exe
+C:\Users\Engin\documents\visual studio 2017\Projects\DesignPatterns\Command\obj\Debug\Command.pdb
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\DesignPatterns\DesignPatterns\Command\bin\Debug\Command.exe.config
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\DesignPatterns\DesignPatterns\Command\bin\Debug\Command.exe
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\DesignPatterns\DesignPatterns\Command\bin\Debug\Command.pdb
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\DesignPatterns\DesignPatterns\Command\obj\Debug\Command.csproj.CoreCompileInputs.cache
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\DesignPatterns\DesignPatterns\Command\obj\Debug\Command.exe
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\DesignPatterns\DesignPatterns\Command\obj\Debug\Command.pdb

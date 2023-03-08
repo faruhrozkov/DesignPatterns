@@ -1,0 +1,12 @@
+c:\users\engin\documents\visual studio 2017\Projects\DesignPatterns\Builder\bin\Debug\Builder.exe.config
+c:\users\engin\documents\visual studio 2017\Projects\DesignPatterns\Builder\bin\Debug\Builder.exe
+c:\users\engin\documents\visual studio 2017\Projects\DesignPatterns\Builder\bin\Debug\Builder.pdb
+c:\users\engin\documents\visual studio 2017\Projects\DesignPatterns\Builder\obj\Debug\Builder.csprojResolveAssemblyReference.cache
+c:\users\engin\documents\visual studio 2017\Projects\DesignPatterns\Builder\obj\Debug\Builder.exe
+c:\users\engin\documents\visual studio 2017\Projects\DesignPatterns\Builder\obj\Debug\Builder.pdb
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\DesignPatterns\DesignPatterns\Builder\bin\Debug\Builder.exe.config
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\DesignPatterns\DesignPatterns\Builder\bin\Debug\Builder.exe
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\DesignPatterns\DesignPatterns\Builder\bin\Debug\Builder.pdb
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\DesignPatterns\DesignPatterns\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\DesignPatterns\DesignPatterns\Builder\obj\Debug\Builder.exe
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\DesignPatterns\DesignPatterns\Builder\obj\Debug\Builder.pdb

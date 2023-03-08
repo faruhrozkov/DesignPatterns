@@ -1,0 +1,20 @@
+C:\Users\Engin\documents\visual studio 2017\Projects\DesignPatterns\Observer\bin\Debug\Observer.exe.config
+C:\Users\Engin\documents\visual studio 2017\Projects\DesignPatterns\Observer\bin\Debug\Observer.exe
+C:\Users\Engin\documents\visual studio 2017\Projects\DesignPatterns\Observer\bin\Debug\Observer.pdb
+C:\Users\Engin\documents\visual studio 2017\Projects\DesignPatterns\Observer\obj\Debug\Observer.csprojResolveAssemblyReference.cache
+C:\Users\Engin\documents\visual studio 2017\Projects\DesignPatterns\Observer\obj\Debug\Observer.exe
+C:\Users\Engin\documents\visual studio 2017\Projects\DesignPatterns\Observer\obj\Debug\Observer.pdb
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\DesignPatterns\DesignPatterns\Observer\bin\Debug\Observer.exe.config
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\DesignPatterns\DesignPatterns\Observer\bin\Debug\Observer.exe
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\DesignPatterns\DesignPatterns\Observer\bin\Debug\Observer.pdb
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\DesignPatterns\DesignPatterns\Observer\obj\Debug\Observer.csproj.CoreCompileInputs.cache
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\DesignPatterns\DesignPatterns\Observer\obj\Debug\Observer.exe
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\DesignPatterns\DesignPatterns\Observer\obj\Debug\Observer.pdb
+C:\C#\DesignPatterns\Observer\bin\Debug\Observer.exe.config
+C:\C#\DesignPatterns\Observer\bin\Debug\Observer.exe
+C:\C#\DesignPatterns\Observer\bin\Debug\Observer.pdb
+C:\C#\DesignPatterns\Observer\obj\Debug\Observer.csproj.AssemblyReference.cache
+C:\C#\DesignPatterns\Observer\obj\Debug\Observer.csproj.SuggestedBindingRedirects.cache
+C:\C#\DesignPatterns\Observer\obj\Debug\Observer.csproj.CoreCompileInputs.cache
+C:\C#\DesignPatterns\Observer\obj\Debug\Observer.exe
+C:\C#\DesignPatterns\Observer\obj\Debug\Observer.pdb

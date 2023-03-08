@@ -1,0 +1,12 @@
+C:\Users\Engin\documents\visual studio 2017\Projects\DesignPatterns\Mediator\bin\Debug\Mediator.exe.config
+C:\Users\Engin\documents\visual studio 2017\Projects\DesignPatterns\Mediator\bin\Debug\Mediator.exe
+C:\Users\Engin\documents\visual studio 2017\Projects\DesignPatterns\Mediator\bin\Debug\Mediator.pdb
+C:\Users\Engin\documents\visual studio 2017\Projects\DesignPatterns\Mediator\obj\Debug\Mediator.csprojResolveAssemblyReference.cache
+C:\Users\Engin\documents\visual studio 2017\Projects\DesignPatterns\Mediator\obj\Debug\Mediator.exe
+C:\Users\Engin\documents\visual studio 2017\Projects\DesignPatterns\Mediator\obj\Debug\Mediator.pdb
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\DesignPatterns\DesignPatterns\Mediator\bin\Debug\Mediator.exe.config
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\DesignPatterns\DesignPatterns\Mediator\bin\Debug\Mediator.exe
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\DesignPatterns\DesignPatterns\Mediator\bin\Debug\Mediator.pdb
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\DesignPatterns\DesignPatterns\Mediator\obj\Debug\Mediator.csproj.CoreCompileInputs.cache
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\DesignPatterns\DesignPatterns\Mediator\obj\Debug\Mediator.exe
+C:\Users\faruh\Downloads\ders nor\Dokumanlar\36_ Proje Kodları\DesignPatterns\DesignPatterns\Mediator\obj\Debug\Mediator.pdb
